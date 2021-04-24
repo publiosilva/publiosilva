@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Publio</h1>
-<h3 align="center">
-  Helo! I am a lover of coffee and technology. I have a degree in software
-  engineering from the Federal University of Ceará (UFC) and currently work as a
-  fullstack developer. My main areas of interest are software architecture and
-  data science. I am open to contribute to innovative projects.
-</h3>
+<h3 align="center">A lover of coffee and technology.</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=publiosilva" alt="publiosilva" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=publiosilva&label=Profile%20views&color=0e75b6&style=flat"
-    alt="publiosilva"
-  />
+<a href="https://linkedin.com/in/publio-blenilio-b97a2b130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="publio-blenilio-b97a2b130" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=publiosilva&show_icons=true&locale=en&layout=compact" alt="publiosilva" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=publiosilva&show_icons=true&locale=en" alt="publiosilva" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=publiosilva&" alt="publiosilva" /></p>
