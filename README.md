@@ -28,6 +28,8 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=publiosilva&show_icons=true&theme=gotham" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=publiosilva&layout=compact&langs_count=7&theme=gotham" />
-</div>
+  
+  <h4>My contributions in the last year</h4>
 
-![Snake animation](https://github.com/publiosilva/publiosilva/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/publiosilva/publiosilva/blob/output/github-contribution-grid-snake.svg)
+</div>
