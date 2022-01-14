@@ -10,6 +10,8 @@
 
 - 💬 Ask me about **NodeJS, JavaScript, Typescript, Flutter, Vue**
 
+- 📎 You can see my resume [here](https://publiosilva.github.io/resume/)
+
 <hr />
 
 <div align="center">
