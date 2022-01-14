@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **NodeJS, JavaScript, Typescript, Flutter, Vue**
 
-- 📎 You can see my resume [here](https://publiosilva.github.io/resume/)
+- 📎 You can see **my resume** [here](https://publiosilva.github.io/resume/)
 
 <hr />
 
@@ -29,3 +29,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=publiosilva&show_icons=true&theme=gotham" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=publiosilva&layout=compact&langs_count=7&theme=gotham" />
 </div>
+
+![Snake animation](https://github.com/publiosilva/publiosilva/blob/output/github-contribution-grid-snake.svg)
