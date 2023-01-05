@@ -4,7 +4,7 @@
 
 - 🎓 I have a degree in **Software Engineering** from the [Federal University of Ceará](https://www.ufc.br)
 
-- 🔭 I’m currently working as **Full Stack Developer** at [Cupom Verde](https://cupomverde.com.br)
+- 🔭 I’m currently working as **Tech Lead** at [Cupom Verde](https://cupomverde.com.br)
 
 - 🎯 I’m learning about **Software Architecture** and **Cloud Computing**
 
@@ -23,8 +23,9 @@
   </a>
 </div>
 
-<hr />
+<!-- <hr /> -->
 
+<!--
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=publiosilva&show_icons=true&theme=gotham" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=publiosilva&layout=compact&langs_count=7&theme=gotham" />
@@ -33,3 +34,4 @@
 
   ![Snake animation](https://github.com/publiosilva/publiosilva/blob/output/github-contribution-grid-snake.svg)
 </div>
+-->
