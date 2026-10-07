@@ -2,13 +2,17 @@
   Hi 👋, I'm Publio
 </h2>
 
-- 🎓 I have a degree in **Software Engineering** from the [Federal University of Ceará](https://www.ufc.br)
+- 💼 **Senior Full-Stack Engineer** at [Cupom Verde](https://cupomverde.com.br) — shipping cloud-native product features for 100K+ DAU (web, mobile, desktop, APIs)
 
-- 🔭 I’m currently working as **Tech Lead** at [Cupom Verde](https://cupomverde.com.br)
+- 🎓 **M.S. in Computer Science** (Software Engineering — test & code quality) and **B.S. in Software Engineering** (Summa Cum Laude) from the [Federal University of Ceará](https://www.ufc.br)
 
-- 🎯 I’m learning about **Software Architecture** and **Cloud Computing**
+- ☁️ Building with **TypeScript, React, Node.js, Python, AWS, Terraform, Docker**, and CI/CD
 
-- 💬 Ask me about **NodeJS, JavaScript, Typescript, Flutter, Vue**
+- 🎯 Focused on **software architecture, test quality**, and reliable cloud systems
+
+- 💬 Ask me about **TypeScript, Node.js, React, Vue, AWS, Flutter, Clean Architecture**
+
+- 🌐 Interactive resume: [publiosilva.github.io/resume](https://publiosilva.github.io/resume/)
 
 <hr />
 
@@ -18,6 +22,9 @@
   </a>
   <a href="https://www.linkedin.com/in/publio-blenilio" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://publiosilva.github.io/resume/" target="_blank">
+    <img src="https://img.shields.io/badge/-Resume-%23008080?style=for-the-badge&logo=githubpages&logoColor=white">
   </a>
 </div>
 
