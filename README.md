@@ -2,15 +2,15 @@
   Hi 👋, I'm Publio
 </h2>
 
-- 💼 **Senior Full-Stack Engineer** at [Cupom Verde](https://cupomverde.com.br) — shipping cloud-native product features for 100K+ DAU (web, mobile, desktop, APIs)
+- 💼 **Senior Full-Stack Engineer** at Pebble House — building AI-powered products from scratch with React, Node.js, Python, PostgreSQL, and AWS. Previously at [Cupom Verde](https://cupomverde.com.br): 100K+ DAU, 37.5% less AWS spend, 99.9% uptime
 
 - 🎓 **M.S. in Computer Science** (Software Engineering — test & code quality) and **B.S. in Software Engineering** (Summa Cum Laude) from the [Federal University of Ceará](https://www.ufc.br)
 
-- ☁️ Building with **TypeScript, React, Node.js, Python, AWS, Terraform, Docker**, and CI/CD
+- ☁️ Building with **TypeScript, React, Node.js, Go, Python, PostgreSQL, AWS, Terraform, Docker**, and CI/CD
 
 - 🎯 Focused on **software architecture, test quality**, and reliable cloud systems
 
-- 💬 Ask me about **TypeScript, Node.js, React, Vue, AWS, Flutter, Clean Architecture**
+- 💬 Ask me about **TypeScript, Node.js, Go, React, Python, AWS, Flutter, Clean Architecture**
 
 - 🌐 Interactive resume: [publiosilva.github.io/resume](https://publiosilva.github.io/resume/)
 
